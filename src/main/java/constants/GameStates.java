@@ -1,2 +1,7 @@
-package constants;public enum GameStates {
+package constants;
+
+public enum GameStates {
+    ACTIVE,
+    COMPLETE,
+    NEW
 }

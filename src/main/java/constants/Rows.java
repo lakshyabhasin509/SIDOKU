@@ -1,2 +1,8 @@
-package constants;public enum Rows {
+package constants;
+
+public enum Rows {
+    TOP,
+    MIDDLE,
+    BOTTOM
+
 }
